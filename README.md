@@ -12,9 +12,9 @@ python: [ch2-knn.py](./ch2/ch2-knn.py)
 
 ## ch3 决策树
 
+notebook: [ch3-decisionTree.ipynb](./ch3/ch3-decisionTree.ipynb)
 
-
-
+python: [ch3-decisionTree.py](./ch3/ch3-decisionTree.py)
 
  
 
