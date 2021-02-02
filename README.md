@@ -16,5 +16,9 @@ notebook: [ch3-decisionTree.ipynb](./ch3/ch3-decisionTree.ipynb)
 
 python: [ch3-decisionTree.py](./ch3/ch3-decisionTree.py)
 
- 
+ ## ch4 朴素贝叶斯
+
+notebook: [ch4-bayes.ipynb](./ch4/ch4-bayes.ipynb)
+
+python: [ch4-naiveBayes.py](ch4-naiveBayes.py)
 
