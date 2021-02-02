@@ -20,5 +20,5 @@ python: [ch3-decisionTree.py](./ch3/ch3-decisionTree.py)
 
 notebook: [ch4-bayes.ipynb](./ch4/ch4-bayes.ipynb)
 
-python: [ch4-naiveBayes.py](ch4-naiveBayes.py)
+python: [ch4-naiveBayes.py](./ch4/ch4-naiveBayes.py)
 
