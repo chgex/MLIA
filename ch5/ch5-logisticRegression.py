@@ -19,6 +19,10 @@ def gradAscent(traindataArr,trainlabelArr):
     参数：训练集，标签集
     return： weights
     """
+    # w_0*x_0+w_1*x_1+w_2*x_2+...
+    # 填充x1=1,则w_0等价于截距b
+    for i in range(len(traindataArr)):
+        traindataArr[i].append(1)
     # 转为数组类型，方便计算
     traindataArr=np.array(traindataArr)
     trainlabelArr=np.array(trainlabelArr)
@@ -51,6 +55,10 @@ def randGradAscent(traindataArr,trainlabelArr):
     参数：训练集，标签集
     return： weights
     """
+    # w_0*x_0+w_1*x_1+w_2*x_2+...
+    # 填充x1=1,则w_0等价于截距b
+    for i in range(len(traindataArr)):
+        traindataArr[i].append(1)
     # 转为数组类型，方便计算
     traindataArr=np.array(traindataArr)
     trainlabelArr=np.array(trainlabelArr)
@@ -108,6 +116,10 @@ def loadData(filename):
 
 def modelTest(testDataArr,testLabelArr,w):
     # return accur
+    
+    # 填充一列，值为1
+    for i in range(len(testDataArr)):
+        testDataArr[i].append(1)
     errCnt=0
     for i in range(len(testDataArr)):
         if testLabelArr[i]!=predict(w,testDataArr[i]):
