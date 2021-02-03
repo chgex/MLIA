@@ -22,3 +22,9 @@ notebook: [ch4-bayes.ipynb](./ch4/ch4-bayes.ipynb)
 
 python: [ch4-naiveBayes.py](./ch4/ch4-naiveBayes.py)
 
+## ch5 Logistic回归
+
+notebook: [ch5-logisticRegression](./ch5/ch5-logisticRegression.ipynb)
+
+python: [ch5-logisticRegression.py](./ch5/ch5-logisticRegression.py)
+
