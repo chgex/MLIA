@@ -28,3 +28,5 @@ notebook: [ch5-logisticRegression](./ch5/ch5-logisticRegression.ipynb)
 
 python: [ch5-logisticRegression.py](./ch5/ch5-logisticRegression.py)
 
+## ch6 SVM
+
