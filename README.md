@@ -38,4 +38,7 @@ notebook:[ch6-svm](./ch6/ch6-svm.ipynb)
 
 notebook: [ch7-adaBoost](./ch7/ch7-adaBoost.ipynb)
 
-python: [ch7-adaBoost](./ch7/ch7-adaBoost)
+python: [ch7-adaBoost](./ch7/ch7-adaBoost.py)
+
+
+
