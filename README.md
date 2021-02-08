@@ -1,6 +1,6 @@
 ##  MLIA
 
-书中案例notebook版。
+书中案例notebook版。一份粗略的学习笔记了。
 
 环境：python3.6.x
 
@@ -30,3 +30,12 @@ python: [ch5-logisticRegression.py](./ch5/ch5-logisticRegression.py)
 
 ## ch6 SVM
 
+notebook:[ch6-svm](./ch6/ch6-svm.ipynb)
+
+
+
+## ch7 adaBoost
+
+notebook: [ch7-adaBoost](./ch7/ch7-adaBoost.ipynb)
+
+python: [ch7-adaBoost](./ch7/ch7-adaBoost)
