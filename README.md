@@ -42,7 +42,7 @@ python: [ch7-adaBoost](./ch7/ch7-adaBoost.py)
 
 ## ch8 regression
 
-notebook:[ch8-regression](ch8-regression.ipynb)
+notebook:[ch8-regression](./ch8/ch8-regression.ipynb)
 
 
 
