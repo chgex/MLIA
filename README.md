@@ -6,43 +6,43 @@
 
 ## ch2 KNN算法
 
-notebook: [ch2-knn.ipynb](./ch2/ch2-knn.ipynb)
+notebook: [ch2-knn.ipynb](./ch02/ch2-knn.ipynb)
 
-python: [ch2-knn.py](./ch2/ch2-knn.py)
+python: [ch2-knn.py](./ch02/ch2-knn.py)
 
 ## ch3 决策树
 
-notebook: [ch3-decisionTree.ipynb](./ch3/ch3-decisionTree.ipynb)
+notebook: [ch3-decisionTree.ipynb](./ch03/ch3-decisionTree.ipynb)
 
-python: [ch3-decisionTree.py](./ch3/ch3-decisionTree.py)
+python: [ch3-decisionTree.py](./ch03/ch3-decisionTree.py)
 
- ## ch4 朴素贝叶斯
+## ch4 朴素贝叶斯
 
-notebook: [ch4-bayes.ipynb](./ch4/ch4-bayes.ipynb)
+notebook: [ch4-bayes.ipynb](./ch04/ch4-bayes.ipynb)
 
-python: [ch4-naiveBayes.py](./ch4/ch4-naiveBayes.py)
+python: [ch4-naiveBayes.py](./ch04/ch4-naiveBayes.py)
 
 ## ch5 Logistic回归
 
-notebook: [ch5-logisticRegression](./ch5/ch5-logisticRegression.ipynb)
+notebook: [ch5-logisticRegression](./ch05/ch5-logisticRegression.ipynb)
 
-python: [ch5-logisticRegression.py](./ch5/ch5-logisticRegression.py)
+python: [ch5-logisticRegression.py](./ch05/ch5-logisticRegression.py)
 
 ## ch6 SVM
 
-notebook:[ch6-svm](./ch6/ch6-svm.ipynb)
+notebook:[ch6-svm](./ch06/ch6-svm.ipynb)
 
 
 
 ## ch7 adaBoost
 
-notebook: [ch7-adaBoost](./ch7/ch7-adaBoost.ipynb)
+notebook: [ch7-adaBoost](./ch07/ch7-adaBoost.ipynb)
 
-python: [ch7-adaBoost](./ch7/ch7-adaBoost.py)
+python: [ch7-adaBoost](./ch07/ch7-adaBoost.py)
 
 ## ch8 regression
 
-notebook:[ch8-regression](./ch8/ch8-regression.ipynb)
+notebook:[ch8-regression](./ch08/ch8-regression.ipynb)
 
 ## ch9 回归树CART
 
