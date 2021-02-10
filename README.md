@@ -2,7 +2,7 @@
 
 书中案例notebook版。一份粗略的学习笔记了。
 
-环境：python3.6.x
+环境：python3.8.x
 
 ## ch2 KNN算法
 
@@ -43,6 +43,12 @@ python: [ch7-adaBoost](./ch7/ch7-adaBoost.py)
 ## ch8 regression
 
 notebook:[ch8-regression](./ch8/ch8-regression.ipynb)
+
+## ch9 回归树CART
+
+notebook:[ch9-treeRegression](./ch09/ch9-treeRegression.ipynb)
+
+python:[ch9-treeRegression.py](./ch09/ch9-treeRegression.py)
 
 
 
