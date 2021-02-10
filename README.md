@@ -50,5 +50,11 @@ notebook:[ch9-treeRegression](./ch09/ch9-treeRegression.ipynb)
 
 python:[ch9-treeRegression.py](./ch09/ch9-treeRegression.py)
 
+## ch10 K均值聚类
+
+notebook:[ch10-kmeans](./ch10/ch10-kmeans.ipynb)
+
+python:[ch10-kMeans](./ch10/ch10-kMeans.py)
+
 
 
