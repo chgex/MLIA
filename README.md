@@ -58,3 +58,11 @@ python:[ch10-kMeans](./ch10/ch10-kMeans.py)
 
 
 
+## ch13 主成分分析
+
+notebook: [ch13-pca.ipynb](./ch13/ch13-pca.ipynb)
+
+python: [ch13-pca.py](./ch13/ch13-pca.py)
+
+
+
