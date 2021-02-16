@@ -1,6 +1,6 @@
 ##  MLIA
 
-书中案例notebook版。一份粗略的学习笔记了。
+书中部分案例notebook版。一份粗略的学习笔记了。
 
 环境：python3.8.x
 
@@ -44,6 +44,8 @@ python: [ch7-adaBoost](./ch07/ch7-adaBoost.py)
 
 notebook:[ch8-regression](./ch08/ch8-regression.ipynb)
 
+
+
 ## ch9 回归树CART
 
 notebook:[ch9-treeRegression](./ch09/ch9-treeRegression.ipynb)
@@ -63,6 +65,12 @@ python:[ch10-kMeans](./ch10/ch10-kMeans.py)
 notebook: [ch13-pca.ipynb](./ch13/ch13-pca.ipynb)
 
 python: [ch13-pca.py](./ch13/ch13-pca.py)
+
+## ch14 利用SVD简化数据
+
+notebok: [ch14-svd.ipynb](./ch14/ch14-svd.ipynb)
+
+python: [ch14-svd](./ch14/ch14-svd.py)
 
 
 
