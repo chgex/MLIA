@@ -12,6 +12,7 @@ def eculSim(x,y):
     return 1.0/(1.0+ np.linalg.norm(x-y))
 
 def pearSim(x,y):
+    # 相似度计算值之皮尔逊距离
     if len(x)<3:
         return 1.0
     # -1到1转换到0到1
@@ -19,6 +20,7 @@ def pearSim(x,y):
     return 0.5 + 0.5*np.corrcoef(x,y,rowvar=0)[0][1] 
 
 def cosSim(x,y):
+    # 相似度计算值之余弦相似度
     num=float(x.T*y)
     denom=np.linalg.norm(x)*np.linalg.norm(y)
     return 0.5+0.5*(num/denom)
@@ -95,7 +97,7 @@ if __name__=='__main__':
     est1=recommend(dataArr,1,estMethod=stand_estimate)
     est2=recommend(dataArr,1,estMethod=svd_estimate)
     
-    # 结果
+    # 打印预测结果
     print('stand estimate is:',est1)
     print(' svd  estimate is:',est2)
     
